@@ -1,0 +1,10 @@
+2019-10-04 17:14:48.667  INFO 16444 --- [main] c.example.mqspring.MqSpringApplication   : Starting MqSpringApplication on LAPTOP-CVOE1QE8 with PID 16444 (C:\Develop\java\eclipse-workspace\mq-spring\target\classes started by MarcioGiachettaCardo in C:\Develop\java\eclipse-workspace\mq-spring)
+2019-10-04 17:14:48.671  INFO 16444 --- [main] c.example.mqspring.MqSpringApplication   : No active profile set, falling back to default profiles: default
+2019-10-04 17:14:52.087  INFO 16444 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-10-04 17:14:52.141  INFO 16444 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-10-04 17:14:52.147  INFO 16444 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.26]
+2019-10-04 17:14:54.064  INFO 16444 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-10-04 17:14:54.069  INFO 16444 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 5318 ms
+2019-10-04 17:14:55.225  INFO 16444 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-04 17:14:56.486  INFO 16444 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-10-04 17:14:56.504  INFO 16444 --- [main] c.example.mqspring.MqSpringApplication   : Started MqSpringApplication in 8.681 seconds (JVM running for 14.718)
